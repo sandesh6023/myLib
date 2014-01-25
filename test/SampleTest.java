@@ -6,5 +6,6 @@ public class SampleTest {
     @Test
     public void test(){
         assertEquals("sand","sand");
+        assertEquals(1,1);
     }
 }
